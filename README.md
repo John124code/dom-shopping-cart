@@ -27,7 +27,7 @@ You can add, remove, and like products, and the total price updates automaticall
 
 ## Screenshot
 
-![screenshot](pics of shopping-cart.png)
+![screenshot](screenshot.png)
 
 ---
 
